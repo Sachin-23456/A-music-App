@@ -3,6 +3,7 @@
 A simple and interactive music player built using HTML, CSS, and JavaScript. It allows users to play, pause,, adjust volume. The app features a user-friendly UI with stylish controls for an enhanced listening experience. 
 
 Features:-
+
 Play, Pause, and Stop Music
 ✅ Next/Previous Track Navigatio
 ✅ Volume Control
@@ -10,6 +11,7 @@ Play, Pause, and Stop Music
 
 
 Technologies Used:-
+
 HTML → Structure of the app
 CSS → Styling and UI design
 JavaScript → Functionality and music controls
